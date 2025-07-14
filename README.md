@@ -26,6 +26,7 @@ python scripts/app.py
 
 ## Folder structure
 
+```bash
 plagiarism_checker/
 │
 ├── data/
@@ -49,3 +50,4 @@ plagiarism_checker/
 │   
 ├── requirements.txt
 └── README.md
+```
