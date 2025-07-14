@@ -1,0 +1,31 @@
+{
+  "query": "The protesters were just a mob causing chaos in the city. They have no real reason to complain.",
+  "top_k": 5,
+  "results": [
+    {
+      "rank": 1,
+      "score": -0.6718195676803589,
+      "text": "This paper introduces the notion of value-based argumentation frameworks, an extension of the standard argumentation frameworks proposed by Dung, which are able toshow how rational decision is possible in cases where arguments derive their force from the social values their acceptance would promote."
+    },
+    {
+      "rank": 2,
+      "score": -0.6996687650680542,
+      "text": "We propose a new definition of actual cause, using structural equations to model counterfactuals. We show that the definition yields a plausible and elegant account of causation that handles well examples which have caused problems for other definitions and resolves major difficulties in the traditional account."
+    },
+    {
+      "rank": 3,
+      "score": -0.7068331241607666,
+      "text": "Planning is a natural domain of application for frameworks of reasoning about actions and change. In this paper we study how one such framework, the Language E, can form the basis for planning under (possibly) incomplete information. We define two types of plans: weak and safe plans, and propose a planner, called the E-Planner, which is often able to extend an initial weak plan into a safe plan even though the (explicit) information available is incomplete, e.g. for cases where the initial state is not completely known. The E-Planner is based upon a reformulation of the Language E in argumentation terms and a natural proof theory resulting from the reformulation. It uses an extension of this proof theory by means of abduction for the generation of plans and adopts argumentation-based techniques for extending weak plans into safe plans. We provide representative examples illustrating the behaviour of the E-Planner, in particular for cases where the status of fluents is incompletely known."
+    },
+    {
+      "rank": 4,
+      "score": -0.7191483974456787,
+      "text": "We propose new definitions of (causal) explanation, using structural equations to model counterfactuals. The definition is based on the notion of actual cause, as defined and motivated in a companion paper. Essentially, an explanation is a fact that is not known for certain but, if found to be true, would constitute an actual cause of the fact to be explained, regardless of the agent's initial uncertainty. We show that the definition handles well a number of problematic examples from the literature."
+    },
+    {
+      "rank": 5,
+      "score": -0.7532198429107666,
+      "text": "An extension of an abstract argumentation framework, called collective argumentation, is introduced in which the attack relation is defined directly among sets of arguments. The extension turns out to be suitable, in particular, for representing semantics of disjunctive logic programs. Two special kinds of collective argumentation are considered in which the opponents can share their arguments."
+    }
+  ]
+}
