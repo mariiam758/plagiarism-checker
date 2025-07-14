@@ -23,6 +23,9 @@ python scripts/2_build_faiss_index.py
 # 3. Run semantic similarity search
 python scripts/app.py
 ```
+![screenshot](image.png) 
+
+![screenshot](heatmap_20250714_203421_ee98e0e6.png) 
 
 ## Folder structure
 
